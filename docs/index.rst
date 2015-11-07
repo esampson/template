@@ -3,8 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. raw:: html
-   <hr width=50 size=10>
+
 Welcome to Read the Docs Template's documentation!
 ==================================================
 
