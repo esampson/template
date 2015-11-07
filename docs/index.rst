@@ -7,7 +7,7 @@
 Welcome to Read the Docs Template's documentation!
 ==================================================
 
-Contents:
+Contents: Testing
 
 .. toctree::
    :maxdepth: 2
@@ -15,7 +15,8 @@ Contents:
 
    *
 
-
+.. raw:: html
+   <hr width=50 size=10>
 
 Indices and tables
 ==================
