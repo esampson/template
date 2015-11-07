@@ -2,7 +2,19 @@
    sphinx-quickstart on Tue Aug 26 14:19:49 2014.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-
++-------+------------+-----------------------+--------------------+
+| Color | Color Code | Biome                 | Leeman Aggregation |
++=======+============+=======================+====================+
+|       |FFFFFF      | Polar Ice             | Polar              |
++-------+------------+-----------------------+                    +
+|       | C0C0C0     | Polar Desert          |                    |
++-------+------------+-----------------------+--------------------+
+|       | 608080     | Subpolar Moist Tundra | Tundra             |
++-------+------------+-----------------------+                    |
+|       | 408080     | Subpolar Wet Tundra   |                    |
++-------+------------+-----------------------+                    |
+|       | 2080C0     | Subpolar Rain Tundra  |                    |
++-------+------------+-----------------------+--------------------+
 
 Welcome to Read the Docs Template's documentation!
 ==================================================
