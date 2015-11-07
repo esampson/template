@@ -3,18 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
    
-   .. role:: gbg
 
-.. raw:: html
-
-   <style>
-      .gbg {background-color:#00ff00;} 
-   </style> 
    
 +-------+-----------------+-----------------------+--------------------+
 | Color | Color Code      | Biome                 | Leeman Aggregation |
 +=======+=================+=======================+====================+
-|       | :gbg:`FFFFFF`   | Polar Ice             | Polar              |
+|       | FFFFFF          | Polar Ice             | Polar              |
 +-------+-----------------+-----------------------+                    +
 |       | C0C0C0          | Polar Desert          |                    |
 +-------+-----------------+-----------------------+--------------------+
@@ -24,6 +18,10 @@
 +-------+-----------------+-----------------------+                    |
 |       | 2080C0          | Subpolar Rain Tundra  |                    |
 +-------+-----------------+-----------------------+--------------------+
+
+.. math::
+
+    n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
 
 Welcome to Read the Docs Template's documentation!
 ==================================================
